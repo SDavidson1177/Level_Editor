@@ -1,0 +1,272 @@
+[
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 212,
+    "y": 272,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 212,
+    "y": 304,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 180,
+    "y": 304,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 180,
+    "y": 272,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 180,
+    "y": 240,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 212,
+    "y": 240,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 244,
+    "y": 240,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 244,
+    "y": 304,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 244,
+    "y": 272,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 276,
+    "y": 240,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 308,
+    "y": 240,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 276,
+    "y": 304,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 340,
+    "y": 240,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 340,
+    "y": 304,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 372,
+    "y": 304,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 404,
+    "y": 272,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 404,
+    "y": 304,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 436,
+    "y": 240,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 436,
+    "y": 272,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 436,
+    "y": 304,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Blood.png",
+    "size": 32,
+    "x": 276,
+    "y": 272,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Blood.png",
+    "size": 32,
+    "x": 308,
+    "y": 272,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Blood.png",
+    "size": 32,
+    "x": 308,
+    "y": 304,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Blood.png",
+    "size": 32,
+    "x": 340,
+    "y": 272,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Blood.png",
+    "size": 32,
+    "x": 372,
+    "y": 272,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Blood.png",
+    "size": 32,
+    "x": 372,
+    "y": 240,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Blood.png",
+    "size": 32,
+    "x": 404,
+    "y": 240,
+    "action": "",
+    "type": 2,
+    "demension": 1
+  }
+]

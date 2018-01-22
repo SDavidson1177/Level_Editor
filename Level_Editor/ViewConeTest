@@ -1,0 +1,227 @@
+[
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 116,
+    "y": 240,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 148,
+    "y": 240,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 180,
+    "y": 240,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 212,
+    "y": 240,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 276,
+    "y": 464,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 308,
+    "y": 432,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 340,
+    "y": 400,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 468,
+    "y": 208,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 468,
+    "y": 112,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 308,
+    "y": 144,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 372,
+    "y": 272,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 436,
+    "y": 304,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 84,
+    "y": 432,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 116,
+    "y": 368,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 148,
+    "y": 432,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 148,
+    "y": 496,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 52,
+    "y": 112,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 52,
+    "y": 144,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 52,
+    "y": 176,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 180,
+    "y": 80,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 212,
+    "y": 80,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 244,
+    "y": 80,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 244,
+    "y": 112,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 244,
+    "y": 144,
+    "type": 0,
+    "demension": -1
+  },
+  {
+    "orientation": 0,
+    "filename": "data/Images/Tiles/Plain.png",
+    "size": 32,
+    "x": 404,
+    "y": 176,
+    "type": 0,
+    "demension": 1
+  }
+]
